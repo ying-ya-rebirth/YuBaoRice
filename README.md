@@ -7,10 +7,10 @@
 
 ## 📂 栏目导航
 
-### 🔹 [Asymptote（渐近线）](./Asymptote/)
+### 🔹 [Asymptote（渐近线）](Asymptote/)
 > *一直追问到世界尽头*
 - **[效率的神话](./Asymptote/效率的神话.md)**      
 
 ---
 
-🚦施工中
+🚦施工中·
